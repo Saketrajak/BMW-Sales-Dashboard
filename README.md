@@ -4,8 +4,8 @@
 This Power BI dashboard provides a comprehensive analysis of BMW's global commercial performance. [cite_start]It tracks massive datasets, including **19.01T in total revenue** [cite: 10, 134] [cite_start]and **253M units sold** [cite: 4, 80] [cite_start]across **45 different countries**[cite: 6, 82].
 
 ## 🚀 Key Performance Indicators (KPIs)
-* [cite_start]**Total Revenue:** 19.01T[cite: 48, 173].
-* [cite_start]**Total Units Sold:** 253M[cite: 147, 210].
+**Total Revenue:** 19.01T[cite: 48, 173].
+**Total Units Sold:** 253M[cite: 147, 210].
 * [cite_start]**Average Revenue:** 75.04K[cite: 7, 220].
 * [cite_start]**Product Range:** 11 distinct Car Models[cite: 8, 151].
 * [cite_start]**Market Reach:** 45 Countries[cite: 45, 148].
