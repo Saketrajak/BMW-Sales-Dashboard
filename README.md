@@ -1,3 +1,43 @@
-# BMW-Sales-Dashboard
-# Overview
-This Power BI project provides a comprehensive analysis of BMW's global sales data, tracking key performance indicators (KPIs) across various regions, car models, and fuel types. The dashboard visualizes a massive dataset encompassing 19.01T in total revenue and 253M total units sold across 45 countries.Key Performance IndicatorsTotal Revenue: 19.01T.Total Units Sold: 253M.Average Revenue: 75.04K.Market Reach: 45 Countries across 6 global regions (Africa, Asia, Europe, Middle East, North America, and South America).Product Range: 11 distinct car models.Dashboard Features1. Revenue & Sales AnalysisTop Models: The 7 Series leads the fleet with approximately 1.79T in revenue, followed closely by the 3 Series and i8.Regional Performance: Visualizes revenue distribution by region and country, highlighting key markets like Canada, Jamaica, and Nigeria.Revenue Metrics: Includes granular data on Top (473.78bn), Median (424.37bn), and Minimum (367.19bn) revenue by country.2. Trends & DistributionTime-Series Tracking: Monitors revenue and sales volume trends from 2010 to 2026.Fuel Type Breakdown: Analyzes sales distribution between Electric (24.99%), Hybrid (24.61%), Petrol, and Diesel.Sales Classification: Categorizes regional performance into "High" and "Low" sales classifications to identify growth opportunities.3. Model SpecificationsA detailed tabular view provides technical and financial specifics for each model, including:Average Engine Size: Consistently around 3.25L across major series.Average Price: Detailed pricing for the 3 Series, 5 Series, 7 Series, M3, M5, and more.Data InsightsAsia and Europe consistently emerge as high-revenue regions in the sales classification charts.The dashboard identifies the Bottom 10 worst-performing countries (e.g., Jordan, Kuwait) to assist in strategic pivot planning.Sales volume distribution shows a near-equal split between high-classification and low-classification sales areas (approx. 51% to 49%).
+# BMW Global Sales Performance Dashboard
+
+## 📊 Project Overview
+This Power BI dashboard provides a comprehensive analysis of BMW's global commercial performance. [cite_start]It tracks massive datasets, including **19.01T in total revenue** [cite: 10, 134] [cite_start]and **253M units sold** [cite: 4, 80] [cite_start]across **45 different countries**[cite: 6, 82].
+
+## 🚀 Key Performance Indicators (KPIs)
+* [cite_start]**Total Revenue:** 19.01T[cite: 48, 173].
+* [cite_start]**Total Units Sold:** 253M[cite: 147, 210].
+* [cite_start]**Average Revenue:** 75.04K[cite: 7, 220].
+* [cite_start]**Product Range:** 11 distinct Car Models[cite: 8, 151].
+* [cite_start]**Market Reach:** 45 Countries[cite: 45, 148].
+
+## 🔍 Key Insights & Features
+
+### 1. Revenue by Model
+[cite_start]The dashboard identifies the top-performing vehicles driving the most revenue[cite: 11]:
+* [cite_start]**7 Series:** ~1.79T[cite: 235, 240].
+* [cite_start]**3 Series:** ~1.76T[cite: 235, 241].
+* [cite_start]**i8:** ~1.74T[cite: 235, 241].
+* [cite_start]**M3:** (Lower end) ~1.67T[cite: 235, 241].
+
+### 2. Regional Performance
+* [cite_start]**Top Revenue by Country:** 473.78bn[cite: 140, 141].
+* [cite_start]**Median Revenue by Country:** 424.37bn[cite: 138, 139].
+* [cite_start]**Geographic Coverage:** Includes North America (Canada, Jamaica), Africa (Nigeria, Ethiopia), and South America (Argentina, Bolivia)[cite: 84, 93, 95, 96].
+
+### 3. Fuel Type & Sales Trends
+* [cite_start]**Electric & Hybrid:** Combined, these represent nearly 50% of the sales volume distribution (Electric: 24.99%, Hybrid: 24.61%)[cite: 73, 74, 75].
+* [cite_start]**Time Analysis:** Tracks revenue trends and sales volume from 2010 through 2026[cite: 47, 66, 69].
+
+### 4. Technical Specifications
+[cite_start]Detailed tabular data for models (3 Series, 5 Series, 7 Series, M3, M5) includes[cite: 153, 155]:
+* [cite_start]**Average Engine Size:** Consistently around 3.25L[cite: 160, 194, 204].
+* [cite_start]**Average Price:** Ranging approximately from 74.4K to 75.5K per unit[cite: 152, 185, 196].
+
+## 🛠️ Data Visualizations
+* [cite_start]**Sankey Diagram:** Sales volume distribution by Region and Fuel Type[cite: 250].
+* [cite_start]**Treemap:** Revenue and Units sold by Country and Region[cite: 83].
+* [cite_start]**Area Charts:** Revenue vs. Units Sold comparison over time[cite: 211, 212].
+* [cite_start]**Gauge Charts:** Progress toward revenue targets[cite: 181, 182].
+
+---
+*Generated based on BMW Sales Analytics PDF data (2026).*
